@@ -1,8 +1,14 @@
-# project_tetris
+#Tetris & Anipang
+
+테트리스 영상
+https://youtu.be/p8izryGncW8
+
+3D로 진행. Grid 배열로 인식
+
+애니팡 영상
+https://youtu.be/rvq51hn7PJk
+
+3D로 진행. Grid 배열로 인식
 
 
-https://youtu.be/pFnfw44icFk
-
-직접 타워와 벽, 본진 건물을 배치한 후 그 본진 건물로 향해 오는 웨이브를 타워로 막는 형식의 디펜스 게임
-
-웨이브 진행중인지 대기중인 상태인지 State 로 관리
+어떤 게임을 진행 중인지 State로 인식
