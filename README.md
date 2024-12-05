@@ -1,3 +1,6 @@
+Microlight는 외부 Asset
+혹시모를 이해를 위해 추가
+
 #Tetris & Anipang
 
 테트리스 영상
